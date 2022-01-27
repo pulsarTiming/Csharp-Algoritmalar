@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//sınırlardaki 1'e komşu olan 1'leri 0'a çevirme
 namespace ConsoleApp6
 {
     class Program
