@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//isim ve soy ismin karakter uzunluğu 12 olacak şekilde düzenleyip, bunu U ve kare şekllinde yazdırır.
 namespace cSharpVize
 {
 
