@@ -1,0 +1,7 @@
+C:\Users\pc1\source\repos\herhangi_iki_sayinin_toplami\herhangi_iki_sayinin_toplami\bin\Debug\herhangi_iki_sayinin_toplami.exe.config
+C:\Users\pc1\source\repos\herhangi_iki_sayinin_toplami\herhangi_iki_sayinin_toplami\bin\Debug\herhangi_iki_sayinin_toplami.exe
+C:\Users\pc1\source\repos\herhangi_iki_sayinin_toplami\herhangi_iki_sayinin_toplami\bin\Debug\herhangi_iki_sayinin_toplami.pdb
+C:\Users\pc1\source\repos\herhangi_iki_sayinin_toplami\herhangi_iki_sayinin_toplami\obj\Debug\herhangi_iki_sayinin_toplami.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\herhangi_iki_sayinin_toplami\herhangi_iki_sayinin_toplami\obj\Debug\herhangi_iki_sayinin_toplami.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\herhangi_iki_sayinin_toplami\herhangi_iki_sayinin_toplami\obj\Debug\herhangi_iki_sayinin_toplami.exe
+C:\Users\pc1\source\repos\herhangi_iki_sayinin_toplami\herhangi_iki_sayinin_toplami\obj\Debug\herhangi_iki_sayinin_toplami.pdb
