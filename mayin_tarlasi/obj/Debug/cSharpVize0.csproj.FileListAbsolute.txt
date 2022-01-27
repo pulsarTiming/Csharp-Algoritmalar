@@ -1,0 +1,7 @@
+C:\Users\pc1\source\repos\cSharpVize0Solution\cSharpVize0\bin\Debug\cSharpVize0.exe.config
+C:\Users\pc1\source\repos\cSharpVize0Solution\cSharpVize0\bin\Debug\cSharpVize0.exe
+C:\Users\pc1\source\repos\cSharpVize0Solution\cSharpVize0\bin\Debug\cSharpVize0.pdb
+C:\Users\pc1\source\repos\cSharpVize0Solution\cSharpVize0\obj\Debug\cSharpVize0.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\cSharpVize0Solution\cSharpVize0\obj\Debug\cSharpVize0.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\cSharpVize0Solution\cSharpVize0\obj\Debug\cSharpVize0.exe
+C:\Users\pc1\source\repos\cSharpVize0Solution\cSharpVize0\obj\Debug\cSharpVize0.pdb
