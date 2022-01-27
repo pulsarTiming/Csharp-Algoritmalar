@@ -1,0 +1,7 @@
+C:\Users\pc1\source\repos\o_eleman_haric_sayiların_carpimi\o_eleman_haric_sayiların_carpimi\obj\Debug\o_eleman_haric_sayiların_carpimi.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\o_eleman_haric_sayiların_carpimi\o_eleman_haric_sayiların_carpimi\obj\Debug\o_eleman_haric_sayiların_carpimi.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\o_eleman_haric_sayiların_carpimi\o_eleman_haric_sayiların_carpimi\bin\Debug\o_eleman_haric_sayiların_carpimi.exe.config
+C:\Users\pc1\source\repos\o_eleman_haric_sayiların_carpimi\o_eleman_haric_sayiların_carpimi\bin\Debug\o_eleman_haric_sayiların_carpimi.exe
+C:\Users\pc1\source\repos\o_eleman_haric_sayiların_carpimi\o_eleman_haric_sayiların_carpimi\bin\Debug\o_eleman_haric_sayiların_carpimi.pdb
+C:\Users\pc1\source\repos\o_eleman_haric_sayiların_carpimi\o_eleman_haric_sayiların_carpimi\obj\Debug\o_eleman_haric_sayiların_carpimi.exe
+C:\Users\pc1\source\repos\o_eleman_haric_sayiların_carpimi\o_eleman_haric_sayiların_carpimi\obj\Debug\o_eleman_haric_sayiların_carpimi.pdb
